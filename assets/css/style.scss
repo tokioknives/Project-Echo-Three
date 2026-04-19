@@ -1,0 +1,25 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  background-color: #02020a;
+  color: #00ff41; /* Matrix/Terminal Green */
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2, h3 {
+  color: #00ff41;
+  text-shadow: 0 0 5px #00ff41;
+}
+
+a {
+  color: #ffca00; /* Gold links like the dendrites */
+  text-decoration: underline;
+}
+
+pre, code {
+  background: #0a0a0a;
+  border: 1px solid #00ff41;
+  color: #00ff41;
+}
