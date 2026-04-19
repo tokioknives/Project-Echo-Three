@@ -1,4 +1,3 @@
-[pages-themes-time-machine-v0.2.0-10-gd7615e5.zip](https://github.com/user-attachments/files/26871103/pages-themes-time-machine-v0.2.0-10-gd7615e5.zip)
 # 🦎 PROJECT ECHO THREE
 ## THE SOVEREIGN NEURON ARCHIVE
 ### [STABILIZED DOMAIN: APRIL 2026]
